@@ -1,5 +1,5 @@
 """
-This module provides functionality to generate a one-time password (OTP).
+This module generates a one-time password (OTP).
 """
 
 import random
